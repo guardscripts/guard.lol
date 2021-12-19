@@ -1,0 +1,48 @@
+{
+  "mainpage": {
+    "annoucement":"test",
+    "pinnedscript": "800",
+    "video":"https://youcantcode.cf/htdocs/assets/img/guardlolbackground-2.mp4",
+    "features": [
+      {
+        "title":"The Community",
+        "message":"We let anyone be part of the GS LTD, as we care about everyone's voice."
+      }
+      {
+        "title":"Update Delivery",
+        "message":"We will keep our customers up to date with every update, to ensure your best experience!"
+      }
+      {
+        "title":"Developers",
+        "message":"Be rest assured that the programmers (1) in this ltd will provide the best of the best and not anything malicious."
+      }
+      {
+        "title":"Support Team",
+        "message":"Our support team will make sure your problem will be solved and not unread."
+      }
+      {
+        "title":"Compatibility",
+        "message":"guard's scripts are compatible with almost every executor (depends on the script)-- including the free executors!"
+      }
+      {
+        "title":"Original Content",
+        "message":"Only Original content are supplied to this service, allowing for a new surprise every time! You will never see reposts."
+      }
+    ]
+  },
+  "scriptpages": {
+    "socials": true
+  },
+  "news":[
+    {
+      "url":"url",
+      "text":"e",
+      "title":"t"
+    },
+    {
+      "url":"url",
+      "text":"e",
+      "title":"t"
+    }
+  ]
+}
