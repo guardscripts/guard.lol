@@ -1,6 +1,6 @@
 {
   "mainpage": {
-    "annoucement":"test",
+    "annoucement":"4.5k scripts! 2k+ Coming more tomorrow!",
     "pinnedscript": "800",
     "video":"https://youcantcode.cf/htdocs/assets/img/guardlolbackground-2.mp4",
     "features": [
@@ -30,9 +30,7 @@
       }
     ]
   },
-  "scripts": {
-    "pinned":"800"
-  },
+ 
   "scriptpages": {
     "socials": true
   },
