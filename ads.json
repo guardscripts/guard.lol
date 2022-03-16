@@ -1,0 +1,38 @@
+{
+    "settings": {
+        "interval":16000,
+        "choice":"random"
+    },
+    "data":[
+        {
+            "title":"GuardX Premium Execution. Try now for free.",
+            "color":"#BDD7EE",
+            "accent":"#4a5380",
+            "type":"video",
+            "mode":"full-source",
+            "author":"guard",
+            "source":"//x.guard.lol/ad/guardx.mp4"
+        },
+        {
+            "title":"Eclipse Code Obfuscation. World's fastest obfuscator, 400ms.",
+            "color":"",
+            "accent":"",
+            "type":"image",
+            "mode":"withlogo",
+            "author":"guard",
+            "logo":"",
+            "source":""
+        },
+        {
+            "title":"Join our discord and get notified when new scripts come out!",
+            "color":"",
+            "accent":"",
+            "type":"image",
+            "mode":"withlogo",
+            "primarybutton":"Join Now",
+            "author":"guard",
+            "logo":"//guard.lol/roblox/icons/discord.png",
+            "source":""
+        }
+    ]
+}
